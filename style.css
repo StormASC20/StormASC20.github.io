@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgba(49, 21, 177, 0.959);
+    text-align: center;
+    padding: 5%;
+    font-family: 'Michroma', sans-serif;
+}
+
+ h1 {
+    color: rgb(211, 197, 197);
+}
+
+p {
+    color: rgba(255, 255, 0, 0.849);
+}
+
+footer {
+    color: rgb(245, 245, 245);
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
